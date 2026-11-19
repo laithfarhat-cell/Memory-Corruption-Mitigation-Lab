@@ -1,0 +1,9 @@
+.git
+.venv
+.pytest_cache
+**/__pycache__
+labs/*/*
+!labs/*/*.c
+!labs/*/*.rs
+!labs/*/*.gdb
+!labs/*/Makefile
